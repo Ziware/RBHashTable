@@ -1,2 +1,1 @@
-# RBHashTable
-Robin Hood template hash table
+Robin Hood template hash table with standart UI
